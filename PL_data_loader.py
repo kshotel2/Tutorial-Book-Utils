@@ -8,7 +8,7 @@ file_destinations = {'FaceMaskDetection':'Face Mask Detection.zip',
               'GAN-Colorization':'Victorian400-GAN-colorization-data.zip',
               'NLP-QG':'CoNLL+BEA_corrected_essays.pkl'}
 
-file_id_dic = {'FaceMaskDetection':'16Gzn1w38yZLJpzmzKcRIRveFeHZtCEr7',
+file_id_dic = {'FaceMaskDetection':'1DWhSpU9-l8VFh31z0k-zWqn7bPxR5qVE',
               'COVIDTimeSeries':'1B36Djko-f0LtVxSaBEVYosLTTsu0qtsh',
               'GAN-Colorization':'1dZxoBIWmbuF-Oy_XZoS1z9EjPJwkTmy6',
               'NLP-QG':'1QccVdDR5ebpPV8tLA7XkY6JmUjM1TYsw'}
