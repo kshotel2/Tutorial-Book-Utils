@@ -3,7 +3,7 @@
 import gdown
 import argparse
 
-file_destinations = {'FaceMaskDetection':'Face Mask Detection.zip',
+file_destinations = {'FaceMaskDetection':'FaceMaskDetection.zip',
               'COVIDTimeSeries':'COVIDTimeSeries.zip',
               'GAN-Colorization':'Victorian400-GAN-colorization-data.zip',
               'NLP-QG':'CoNLL+BEA_corrected_essays.pkl'}
